@@ -1,15 +1,59 @@
 .link h1 {
+  text-align: center;
   font-family: Veranda, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white
-  text-align: center;
 
 }
 
 h3 {
+  text-decoration: underline;
   font-family: Veranda, sans-serif;
   color: aquamarine;
   font-size: 16px;
+  text-align: center;
+
+}
+
+body {
+  background-color: black;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: Veranda, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+
+}
+
+p {
+  font-family: Veranda, sans-serif;
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+
+}
+
+p, img {
+  text-align: center;
+
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+
+}
+
+#copyright {
+  text-align: right;
+  color: grey;
+  text-decoration: none;
+  font-size: 21px;
+  font-family: Veranda, sans-serif;
 
 }
